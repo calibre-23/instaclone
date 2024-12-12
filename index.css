@@ -16,7 +16,7 @@ html, body {
     align-items: center;
     flex-direction: column;
     background-color: #f1f1f1;
-    height: 100vh;
+    height: 100%;
 }
 /*top bar*/
 .header{
@@ -56,7 +56,7 @@ html, body {
     border-radius: 250px;
     margin-left: 20px;
 }
-span{
+.span1{
     display: block;
     font-weight: 300;
     font-size: 12px;
@@ -64,6 +64,7 @@ span{
 
 h2{
     margin-left: 10px;
+
 }
 
 /*center*/
@@ -84,7 +85,7 @@ h2{
 
 .descriptionComments{
     background-color: #ffffff;
-    height: 125px;  
+    height: 100px;  
     width: 375px;
     
 
@@ -99,6 +100,17 @@ h2{
 }
 
 .seperation{
-    margin: 50px;
+    margin: 5px;
     background-color: red;
+    color: rgb(red, green, blue);
+}
+
+span{
+    font-weight: 300;
+    font-size: 12px;
+}
+
+.likes{
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
