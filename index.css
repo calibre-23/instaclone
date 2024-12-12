@@ -1,8 +1,7 @@
 *{
     font-size: 13px;
-    
+    font-family: "source sans pro" , sans-serif;
 }
-
 
 html, body {
     margin: 0 auto;
@@ -17,7 +16,7 @@ html, body {
     align-items: center;
     flex-direction: column;
     background-color: #f1f1f1;
-    
+    height: 100vh;
 }
 /*top bar*/
 .header{
@@ -85,10 +84,10 @@ h2{
 
 .descriptionComments{
     background-color: #ffffff;
-    height: 67px;  
+    height: 125px;  
     width: 375px;
     
-    
+
 }
 
 .icons{
