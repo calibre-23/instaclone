@@ -74,6 +74,9 @@ h2{
     height: 375px;
     margin:0px
 }
+.centerpiece:hover{
+    cursor: pointer;
+}
 
 .image{
     width: 375px;
@@ -98,6 +101,11 @@ h2{
     margin-right: -5px;
     padding-top: 10px;
 }
+
+.icons:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}   
 
 .seperation{
     margin: 5px;
